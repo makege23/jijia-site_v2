@@ -47,7 +47,7 @@ body {
     width: 50%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .right-image img {
